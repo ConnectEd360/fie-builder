@@ -1,0 +1,14 @@
+{
+  "name": "fie-builder",
+  "version": "1.0.0",
+  "description": "FERPA-compliant FIE report generator for school psychologists",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "vercel dev"
+  },
+  "keywords": ["education", "psychology", "FIE", "special-education"],
+  "author": "School Psychology Team",
+  "license": "MIT"
+}
